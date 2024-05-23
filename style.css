@@ -1,0 +1,35 @@
+body{
+    background: #101220;
+    font: normal 15pt arial ;
+    }
+    header{
+        color: rgb(245, 245, 245);
+        text-align: center;
+    
+    
+    }
+    section{
+        background: whitesmoke;
+        border-radius: 10px;
+        padding: 15px;
+        width: 500px;
+        margin: auto;
+        box-shadow:  5px 5px 10px rgba(0, 0, 0, 0.534);
+    
+    
+    }
+    footer{
+        color: whitesmoke;
+        font-style: italic;
+        text-align: center;
+       
+    
+    
+    }
+    div{text-align: center;
+    padding: 8px;}
+    
+    p{text-align: center;
+    }
+    img {
+        max-width: 100%;}
